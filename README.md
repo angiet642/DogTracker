@@ -10,8 +10,8 @@ What is the thing you are proposing and why is it interesting? \
 ✦ System diagram   \
 ✦ Proposed schedule
 
-How will you know if you’ve achieved the goal?
-What will the demo look like? What will the write up look like?
-What are the most difficult steps and how will you address these ASAP?
-Can you get the H/W? Do you need to write code? How much?
-Stuff that you’re worried about, you know, the nagging stuff…
+How will you know if you’ve achieved the goal? \
+What will the demo look like? What will the write up look like? \
+What are the most difficult steps and how will you address these ASAP? \
+Can you get the H/W? Do you need to write code? How much? \
+Stuff that you’re worried about, you know, the nagging stuff… 
