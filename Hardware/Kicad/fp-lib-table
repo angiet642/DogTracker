@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Dog_Tracker")(type "KiCad")(uri "${KIPRJMOD}/Dog_Tracker.pretty")(options "")(descr ""))
+)

@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "DogTracker")(type "KiCad")(uri "${KIPRJMOD}/DogTracker.kicad_sym")(options "")(descr ""))
+  (lib (name "Dog_Tracker")(type "KiCad")(uri "${KIPRJMOD}/Dog_Tracker.kicad_sym")(options "")(descr ""))
 )
