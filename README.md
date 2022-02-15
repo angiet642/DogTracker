@@ -23,7 +23,7 @@ A common issue pet-owners face is discovering that their pet has escaped the hou
 
 
 ### Verification
-To verify our system, we will first verify the functionality of each module. The steps are outlined below.
+To verify our system, we will first verify the functionality of each module before methodically combining things into our final system. The steps are outlined below.
 
 Before final PCB comes back: 
 - [x] Upload basic Blink code to M4 Feather Board
