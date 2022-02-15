@@ -42,8 +42,6 @@ After final PCB comes back:
 - [ ] Upload code for runnng piezzo buzzer from the "base station" when dog is out of range
 - [ ] Run all four modules at the same time 
 - [ ] Have "base station"  upload information to a website hosted on the the Things network
-- [ ] Neptune
-- [ ] Comet Haley
 
 ### Demo Plan
 Our demo will be putting the collar on a fellow classmate and having them run around the engineering quad to show the real time updates in GPS coordinates on the base station, which will be set up in the lab. Finally, we will show that when our classmate goes out of the user-defined range, the piezzo buzzer will turn on which can be verified with [this app](https://play.google.com/store/apps/details?id=com.microcadsystems.serge.ultrasounddetector&hl=en_US&gl=US)
