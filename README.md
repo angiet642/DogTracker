@@ -12,7 +12,7 @@ A common issue pet-owners face is discovering that their pet has escaped the hou
 
 ### System diagram   
 <p>
-  <img src="https://github.com/krsandwich/DogTracker/blob/master/block_diagram.png" width="500">
+  <img src="https://github.com/krsandwich/DogTracker/blob/master/block_diagram.png" width="700">
   <p> Figure 1: System Level Block Diagram
 </p>
 
