@@ -11,6 +11,10 @@ M4 Feather Express Schematic can be found [here](https://learn.adafruit.com/asse
 A common issue pet-owners face is discovering that their pet has escaped the house. To prevent this situation, our team is interested in designing a low-power dog tracker using LoRa. Unlike other pet-tracking collars, our system will implement a training technique by emitting a 25KHz sound wave if the pet is found outside of a user-defined geo fence. For example, if the user would like to train their dog to avoid a specific area of the backyard, our device will detect whether the dog is in this region and emit the high frequency sound if so.
 
 ### System diagram   
+<p>
+  <img src="https://github.com/krsandwich/DogTracker/blob/master/block_diagram.png" width="500">
+  <p> Figure 1: System Level Block Diagram
+</p>
 
 ### Proposed schedule
 | Week  | Date | Tasks |Complete|
