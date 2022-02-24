@@ -55,7 +55,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|64485600|111161200|b1165135-d9d1-44b7-afa5-fafa9f61b3cd|1d28e74a-84b2-48c1-b81a-a1cebe83bb9a",
+        "silk_over_copper|83342447|123185780|1d293c57-cc18-46bc-9354-74e5400bf5f1|4e0bef99-39db-445c-a84c-f54440c5149f"
+      ],
       "meta": {
         "version": 2
       },
@@ -103,15 +106,15 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.09,
         "min_copper_edge_clearance": 0.0,
-        "min_hole_clearance": 0.25,
+        "min_hole_clearance": 0.19999999999999998,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.19999999999999998,
+        "min_track_width": 0.08889999999999999,
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
@@ -120,10 +123,13 @@
       },
       "track_widths": [
         0.0,
+        0.05,
         0.1,
         0.15,
+        0.2,
         0.25,
         0.29337,
+        0.5,
         0.6096
       ],
       "via_dimensions": [
