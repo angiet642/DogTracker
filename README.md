@@ -8,7 +8,7 @@ A common issue pet-owners face is discovering that their pet has escaped the hou
 ### System diagram   
 The proposed design of the pet-tracker system is illustrated in the block diagram below.
 <p>
-  <img src="https://github.com/krsandwich/DogTracker/blob/master/block_diagram.png" width="700">
+  <img src="https://github.com/krsandwich/DogTracker/blob/master/Images/block_diagram.png" width="700">
   <p> Figure 1: System Level Block Diagram
 </p>
 
@@ -16,7 +16,7 @@ The proposed design of the pet-tracker system is illustrated in the block diagra
 | Week  | Date | Tasks 
 | ------------- | ------------- | ------------- |
 | Week 7 | Feb 13-Feb 19  | - [x] Order parts <br />- [ ] Review PCB and Schematic with Steve and Joanna   |
-| Week 8 | Feb 20-Feb 26  | - [ ] Submit PCB for fabriciation | 
+| Week 8 | Feb 20-Feb 26  | - [x] Submit PCB for fabriciation | 
 | Week 9 | Feb 27-March 5  | - [ ] Bring up and test boards | 
 | Week 10 | March 6-March 12  | - [ ] Demo | 
 
@@ -27,7 +27,7 @@ To verify our system, we will first verify the functionality of each module befo
 
 #### Before final PCB comes back: 
 - [x] Upload basic Blink code to M4 Feather Board
-- [ ] Write basic transmit/recieve code for SX1280 using this [reference](https://github.com/maholli/CircuitPython_SX1280) (In progress)
+- [x] Write basic transmit/recieve code for SX1280 using this [reference](https://github.com/maholli/CircuitPython_SX1280) (In progress)
 - [ ] Hook up SX1280 to SPI port of any available micro and run transmit code while probing antenna line with Spectrum Analyzer
 - [ ] Connect additional SX1280 board and have both transmit and recieve data \
 #### After final PCB comes back:
