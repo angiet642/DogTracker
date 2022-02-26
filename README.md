@@ -8,7 +8,7 @@ A common issue pet-owners face is discovering that their pet has escaped the hou
 ### System diagram   
 The proposed design of the pet-tracker system is illustrated in the block diagram below.
 <p>
-  <img src="https://github.com/krsandwich/DogTracker/blob/master/block_diagram.png" width="700">
+  <img src="https://github.com/krsandwich/DogTracker/blob/master/Images/block_diagram.png" width="700">
   <p> Figure 1: System Level Block Diagram
 </p>
 
