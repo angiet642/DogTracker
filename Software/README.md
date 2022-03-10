@@ -16,6 +16,7 @@
 
 ### Adafruit ultimate GPS
 - [GPS Arduino Tutorial](https://learn.adafruit.com/adafruit-ultimate-gps/parsed-data-output) 
+- [GPS Data Conversion Calculator](https://www.pgc.umn.edu/apps/convert/)
 
 ### SX1280
 - [Tx/Rx Examples, circuit python](https://github.com/maholli/CircuitPython_SX1280) 
